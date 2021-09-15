@@ -11,7 +11,7 @@ package oopprinciples.strategy;
  */
 public class Animal {
 	
-	private String name;
+	private String name; 
 	private double height;
 	private int weight;
 	private String favFood;
